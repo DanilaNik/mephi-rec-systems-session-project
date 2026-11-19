@@ -89,8 +89,7 @@ jupyter notebook goodbooks_recommender_session.ipynb      # затем Run All
 
 ```
 goodbooks_recommender_session.ipynb   итоговый проект: код, запуск, эксперименты, выводы
-goodbooks_recommender.ipynb           домашнее задание №1 (на него ссылается проект)
-README.md                             это описание
+README.md
 data/                                 данные Goodbooks-10k (скачать с Kaggle, в .gitignore)
 artifacts/                            результаты запуска пайплайна (создаётся при запуске, в .gitignore)
 ```
